@@ -2,12 +2,12 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `Abhishek Mishra`
+- **CCID:** `mishra9`
 
 ## References and Resources
 
-List any resources used here, or simply put `N/A` if not applicable.
+`OpenAI ChatGPT was used moderately to help me understand how to implement the editing functionality in my ListyCity3, including selecting a city, updating its name and province, and using the updateCity function.`
 
 ## Verbal Collaboration
 
